@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+$fondogral: rgb(88, 88, 88);
+body {
+    background-color: rgba(222, 222, 222, 0.508);
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    text-transform: uppercase;
+    flex-direction: column;
+    min-height: 100vh;
+    align-items: stretch;
+    background-repeat: repeat;
+    align-items: center;
+}
+
+
+li {
+    display: inline-block;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+.card{
+    margin-bottom: 25px;
+    
+}
+.card-title{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: black;
+}
+.card-text{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    text-align: left;
+}
+
+
+.figure{
+    text-align: justify;
+    font-size: 2px;
+    display: inline;
+    
+}
+
+.twitter-tweet{
+    color: aqua;
+    align-items: center;
+    
+}
+
