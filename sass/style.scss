@@ -5,6 +5,32 @@
 
 $fondo1:rgba(80, 80, 80, 0.302);
 
+.header {
+    color: #000000;
+    font-size: 20px;
+    padding: 15px;
+    margin: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    background-color: #cd191f;
+
+    
+}
+
+.bigicon {
+    font-size: 3px;
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    margin: 10px;
+}
+
+.btn-lg{
+    margin: 20px;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #cd191f;
+}
+
 .grid-layout{
     display: flex;
     flex-direction: column;
@@ -415,6 +441,7 @@ ul {
 
     .form-control {
         color: #b9a1a2;
+        
     }
 
 
